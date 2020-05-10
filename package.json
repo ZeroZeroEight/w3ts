@@ -1,5 +1,5 @@
 {
-  "name": "w3ts",
+  "name": "@voces/w3ts",
   "version": "2.1.2-fix.1",
   "description": "TypeScript API for Warcraft III custom maps.",
   "author": "voces",
